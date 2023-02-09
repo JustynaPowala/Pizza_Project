@@ -2,7 +2,7 @@
 
 This is a project in Power BI which I created from scratch using data from website https://www.mavenanalytics.io/data-playground.
 
-I started with ETL process, then I built data model. First, I joined the tables using primary and foreign keys, then i continued following a few rules:
+I started with ETL process, then I built data model. First, I joined the tables using primary and foreign keys, then I continued following a few rules:
 using one-to-many relationshps, one way filter flow, showing downstream dataflow. 
 
 The next step was to create a calendar table with a calculated columns.
